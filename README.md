@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bachelor's degree in Computer science
 - 💞️ I’m looking to collaborate with a company or startup that we can grow together
 - 📫 reach me on my e-mail: rongabay17@gmail.com
-- 📫 reach me on my linkedIn: www.linkedin.com/in/ron-gabay-80a849176
+- 📫 reach me on my linkedIn: www.linkedin.com/in/ron-gabay
 
 <!---
 RonGabay/RonGabay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
