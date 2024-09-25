@@ -1,6 +1,7 @@
 👋 Hi, I’m @RonGabay
 
-🎓 B.Sc. in Computer Science graduate (GPA 90, Dean's List) with a passion for Full Stack development and secure communication protocols. 
+🎓 B.Sc. in Computer Science graduate (GPA 90, Dean's List)
+💡 passionate about Full Stack development and secure communication protocols.
 
 💻 Experienced in MERN stack, Java, Python, C++ and cloud technologies. 
 
